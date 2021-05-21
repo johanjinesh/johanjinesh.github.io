@@ -21,9 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** Y E S
-
-[Link](url) and ![Image](src)
+**My hobbies are Y E S**
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
