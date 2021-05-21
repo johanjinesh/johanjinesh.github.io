@@ -13,7 +13,6 @@ Syntax highlighted code block
 
 # I am learning to build a web page
 ## I din't know how to use git hub
-### I'm completly lost😶
 
 - Bulleted
 - List
@@ -21,7 +20,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**My hobbies are Y E S**
+****
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
